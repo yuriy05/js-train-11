@@ -380,6 +380,6 @@ function sumNumbers(set) {
 console.log("Завдання: 12 ==============================");
 console.log(
   "Сума чисел у множині:",
-  sumNumbers(new Set([1, 2, "a", 3, "b", 4, 5]))
+  umNumbers(new Set([1, 2, "a", 3, "b", 4, 5]))
 );
 // Виведе: Сума чисел у множині: 15
